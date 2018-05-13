@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learn.microservice.HumanResourceService.HumanResourceAppTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.525 s - in com.learn.microservice.HumanResourceService.HumanResourceAppTests
